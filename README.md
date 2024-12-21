@@ -1,4 +1,4 @@
-#Ollm Bridge MacOS Fork
+# Ollm Bridge MacOS Fork
 
 ## What is this?
 
@@ -14,7 +14,7 @@ Ollm Bridge is a simple tool designed to streamline the process of accessing Oll
 
 
 
-#Original:
+
 
 # Ollm Bridge v0.6 - Easy Access to Ollama Models for LMStudio Users
 
