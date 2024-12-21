@@ -1,3 +1,21 @@
+#Ollm Bridge MacOS Fork
+
+## What is this?
+
+Ollm Bridge is a simple tool designed to streamline the process of accessing Ollama models within LMStudio. It automatically creates directories, symlinks, and organizes files based on the manifest information from the Ollama registry.
+
+
+
+
+
+
+
+
+
+
+
+#Original:
+
 # Ollm Bridge v0.6 - Easy Access to Ollama Models for LMStudio Users
 
 ## What is this?
