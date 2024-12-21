@@ -10,10 +10,12 @@ Ollm Bridge is a simple tool designed to streamline the process of accessing Oll
 
 
 
-
-
-
-
+#
+#
+#
+#
+#
+#
 
 
 # Ollm Bridge v0.6 - Easy Access to Ollama Models for LMStudio Users
